@@ -13,7 +13,7 @@ public class LoginPage {
 	private ElementUtl eleUtil;
 	
 	private By userName = By.id("input-email");
-	private By password = By.id("input-password11");
+	private By password = By.id("input-password");
 	private By forgotPwdLink = By.linkText("Forgotten Password");
 	private By loginBtn = By.xpath("//input[@type='submit' and @value ='Login']");
 	private By logo = By.xpath("//img[@title='naveenopencart']");
