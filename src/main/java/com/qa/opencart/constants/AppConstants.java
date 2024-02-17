@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class AppConstants {
-	public static final String LOGINPAGE_TITLE = "Account Login";
+	public static final String LOGINPAGE_TITLE = "Account Login1";
 	public static final String LOGINPAGE_URL_FRACTION ="account/login";
 	
 	
